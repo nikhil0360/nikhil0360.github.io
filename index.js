@@ -46,10 +46,12 @@ function makeUnSelected(tab){
 tab1.onmouseover = function(){
   if(isSelected === false )
     view[0].innerHTML = tab1c ;
+    // view[0].style.backgroundColor = $('#tab1').css("background-color");
 } ;
 tab1.onmouseout = function(){
   if(isSelected === false )
     view[0].innerHTML = def;
+    // view[0].style.backgroundColor = $('.side').css("background-color");
 } ;
 
 
