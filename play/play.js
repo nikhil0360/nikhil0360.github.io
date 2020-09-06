@@ -3,16 +3,16 @@ var defHTML = document.getElementsByClassName('view') ;
 var def = defHTML[0].innerHTML ;
 
 var tab1c =
-"<h1>DOTA 2</h1><img src='images/play1.png' style='width:40vh'><p>DOTA 2 is an MPRPG, where 2 teams of 5 heroes each battle against each other to destroy their sacred ancient, and whoever destroys it first wins the battle, This game is crazy huge and there is a steep learning curve. I have nearly played around 100 hours and still, I am just a beginner. There is a lot of things and my favorite character is Juggernaut (Jug for short)</p>" ;
+"<h1>DOTA 2</h1><img src='images/play1.png' style='width:40vh'><p>DOTA 2 is an MPRPG, where 2 teams of 5 heroes each, battle against each other to destroy their sacred ancient, and whoever destroys it first wins the battle, This game is crazy huge and there is a steep learning curve. I have nearly played around 100 hours and still, I am just a beginner. There is a lot of things and my favorite character is Juggernaut (Jug for short)</p>" ;
 
 var tab2c =
-"<h1>ANIME</h1><img src='images/play2.png' style='width:25vh'><p>The First Long Anime series I watched was Bleach and got stuck. I love animes, and its a source of inspiration, motivation, and the best entertainment packed in 20 mins.</p><p>Currently, I am watching Naruto, and its the best. I like the character Naruto and his way of approaching friends and problems.</p> " ;
+"<h1>ANIME</h1><img src='images/play2.png' style='width:25vh'><p>The First Long Anime series I watched was Bleach and I got stuck for life. I love animes, and its a source of inspiration, motivation, and the best entertainment packed in 20 mins.</p><p>Currently, I am watching Naruto, and its the best. I like the character Naruto and his way of approaching friends and problems.</p> " ;
 
 var tab3c =
-"<img src='images/play3.png' style='width:40vh'><p>My Homies I and are working on a podcast series about people and their life and interest, in Season 1 we decide to bring seniors of our college to come and share their experience and knowledge, and we try to bring value from their life to our audiences.</p>" ;
+"<img src='images/play3.png' style='width:40vh'><p>My Homies and I are working on a podcast series about people and their life and interest, in Season 1 we decide to bring seniors of our college to come and share their experience and knowledge, and we try to bring different values from their life to our audiences.</p>" ;
 
 var tab4c =
-"<h1>DESIGNING</h1><img src='images/play4.png' style='width:30vh'><p>I started designing when I entered college as people needed designs for their events and fest, and I had just a fair amount of knowledge about designing. But I found it interesting and I got hook up. I use Affinity Designer for my work, it is a great application.</p><p>Here are some of my designs</p><img src='images/play4a.png' style='width:33vh; float:left;'><img src='images/play4b.png' style='width:33vh; float:right;'><img src='images/play4c.png' style='width:33vh; float:left;'><img src='images/play4d.png' style='width:33vh; float:right;'>" ;
+"<h1>DESIGNING</h1><img src='images/play4.png' style='width:30vh'><p>I started designing when I entered college as people needed designs for their events and fest, and I had just a fair amount of knowledge about designing to start with. But I found it interesting. I use Affinity Designer for my work, and it is a great application.</p><p>Here are some of my designs</p><img src='images/play4a.png' style='width:33vh; float:left;'><img src='images/play4b.png' style='width:33vh; float:right;'><img src='images/play4c.png' style='width:33vh; float:left;'><img src='images/play4d.png' style='width:33vh; float:right;'>" ;
 
 var tab5c =
 "<h1>DOGGO : meet Neo</h1><img src='images/play5.png' style='width:30vh;' ><p>Neo is my pet Dog, and yes! it brings Balance to my life ( Matrix reference ). He is currently four months old but he is the cutest and the naughtiest boy of the house.</p>";
