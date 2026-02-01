@@ -247,6 +247,7 @@ html, body
     moving on the icons
    */
   font-size: 0 ;
+  margin-top: 10px;
 }
 
 .fa {
@@ -263,8 +264,26 @@ html, body
   color: white ;
 }
 
+/* call-to-action */
+.cta{
+  margin-top: 18px;
+}
 
+.btn{
+  display: inline-block;
+  padding: 10px 14px;
+  border: 1px solid var(--head-blue);
+  border-radius: 6px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+}
 
+.btn:hover{
+  background: var(--head-blue);
+  color: white;
+}
 
 
 /* ************************************ */
